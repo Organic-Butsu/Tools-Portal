@@ -1,0 +1,20 @@
+{
+"name": "Tools Portal",
+"short_name": "Tools",
+"start_url": "./",
+"display": "standalone",
+"background_color": "#292f40",
+"theme_color": "#292f40",
+"icons": [
+  {
+"src": "siteicon.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "siteicon.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
